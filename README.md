@@ -11,4 +11,4 @@ _From dataset understanding to result presentation and how to employ deep acycli
 ## Repo structure
  - root all the slides
  - `MandatoryPapers` all the available papers to chose from for mandatory research presentation
- - `StudentScripts` scripts from each interactive lecture 
+ - `Scripts` scripts/notebooks from each interactive lecture 
