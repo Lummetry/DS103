@@ -14,4 +14,4 @@ _From dataset understanding to result presentation and how to employ deep acycli
  - `Scripts` scripts/notebooks from each interactive lecture 
  
 ## Slack Channel
-For slack please click here: https://join.slack.com/t/ds103/shared_invite/zt-i0yss8o3-dsNg4t7E~KQDtv9GDJPP~Q
+For slack please click here: [Link](https://join.slack.com/t/ds103/shared_invite/zt-i0yss8o3-dsNg4t7E~KQDtv9GDJPP~Q)
