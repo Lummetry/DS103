@@ -12,3 +12,6 @@ _From dataset understanding to result presentation and how to employ deep acycli
  - root all the slides
  - `MandatoryPapers` all the available papers to chose from for mandatory research presentation
  - `Scripts` scripts/notebooks from each interactive lecture 
+ 
+## Slack Channel
+For slack please click here: https://join.slack.com/t/ds103/shared_invite/zt-i0yss8o3-dsNg4t7E~KQDtv9GDJPP~Q
