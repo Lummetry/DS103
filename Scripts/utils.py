@@ -18,10 +18,12 @@ def set_pretty_prints():
   pd.set_option('display.max_columns', 500)
   pd.set_option('display.max_colwidth', 500)
   pd.set_option('display.width', 1000)
-  pd.set_option('precision', 4)    
+  pd.set_option('precision', 4)
+
   np.set_printoptions(precision=2)
   np.set_printoptions(suppress=True)
   np.set_printoptions(threshold=np.inf)
+  np.set_printoptions(linewidth=500)
   plt.style.use('ggplot')
   return
   
